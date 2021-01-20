@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+	<title> Mars</title> 		
+</head>
+
+
+<body> 
+	<h1>Mars from the Stars</h1>
+	<p> This is my pet cornsnake Mars. He is 5 years old and he loves to eat mice.</p>
+
+  	<img src="images/snake.jpg" alt="snake in a log">
+<br>
+
+  	<a href="https://www.buas.nl/">Link to buas website</a> 
+
+</body>
+
+</html>
