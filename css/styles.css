@@ -1,4 +1,12 @@
-body {background-color: lightcoral;}
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+
+body {
+ background-image: url(../images/grass.jpg);
+	background-size: repeat;
+ background-color: lightcoral;
+	font-family: 'DotGothic16', sans-serif;
+}
 
 h1 {border: 3px solid black;
 background-color: lightsteelblue}
@@ -8,7 +16,7 @@ background-color: lightsteelblue}
 margin: 35px;
 	background-color: aliceblue}
 
-#highlight {background-color: yellowgreen}
+#highlight {background-color: red}
 
 
 
