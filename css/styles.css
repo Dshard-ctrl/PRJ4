@@ -45,6 +45,8 @@ html, body {
 	margin-top: 25px;
 	background-color: coral;
 	opacity: 0.8;
+	width: 80%;
+    margin: 0 auto;
 }
 
 #snake2 {
@@ -129,12 +131,6 @@ img.imageDerp {
 .my-container { 
   padding: 25px;
 }
-
-
-
-
-
-
 
 
 
