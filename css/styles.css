@@ -10,12 +10,125 @@ body {
 	font-family: 'DotGothic16', sans-serif;
 }
 
+html, body {
+	overflow-x: hidden;
+}
+
+.headerTop1 h1 {
+	color: red;
+	text-align: center;
+}
+
+.headerTop2 h1 {
+	color: purple;
+	text-align: center;
+}
+
+#headerTop3 h1 {
+	text-decoration: underline;
+	text-decoration-color: yellow;
+	text-align: center;
+}
+
+#snake1 {
+    display: block;
+    width: 30%;
+	border-radius: 50%;
+	height: auto;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+}
+
+.snakes {
+	border: 2px solid black;
+	margin-top: 25px;
+	background-color: coral;
+	opacity: 0.8;
+}
+
+#snake2 {
+    display: block;
+    width: 30%;
+	border-radius: 50%;
+	height: auto;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+}
+
+#snake3 {
+    display: block;
+    width: 30%;
+	border-radius: 50%;
+	height: auto;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+}
+
+p#highlight1 {
+	color: yellow;
+	width: 50%;
+	display: block;
+	margin: 0 auto;
+	padding-top: 10px;
+}
+
+p#highlight2 {
+	color: blue;
+	width: 50%;
+	display: block;
+	margin: 0 auto;
+	padding-top: 10px;
+}
+
+p#highlight3 {
+	color: pink;
+	width: 50%;
+	display: block;
+	margin: 0 auto;
+	padding-top: 10px;
+}
+
+.link a {
+	font-size: 30px;
+	color: blue;
+	text-align: center;
+	width: 100%;
+	background: pink;
+    padding-bottom: 10px;
+    margin: 0 auto;
+    display: block;
+	margin-bottom: 25px;
+}
+
+.river p {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+img.imageDerp {
+    width: 50%;
+    padding-top: 25px;
+    margin: 0 auto;
+    display: block;
+	border-radius: 50%;
+}
+
+.river img {
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 25px;
+    border: 2px solid black;
+}
 
 
-.my-container { border: 1px solid black; 
-  padding: 35px;
-margin: 35px;
-	background-color: aliceblue}
+.my-container { 
+  padding: 25px;
+}
 
 
 
